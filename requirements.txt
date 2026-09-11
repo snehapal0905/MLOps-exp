@@ -1,3 +1,6 @@
 scikit-learn
 joblib
 pytest
+scikit-learn>=1.0
+joblib>=1.1.0
+Flask==3.0.0
